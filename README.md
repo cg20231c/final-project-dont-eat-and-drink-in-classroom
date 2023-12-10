@@ -5,7 +5,8 @@ Members :
 3. Lihardo Marson Purba - 5025211238
 
 Final Project`s link download : https://drive.google.com/drive/folders/1lqgcbSqjhBLzhv-BY37kFeLjYVdXc0YU?usp=sharing
-Final Project`s powerpoint : https://www.canva.com/design/DAF2EWBvN0U/dagn-KYJeu1-Is1SZ7lA-Q/edit?utm_content=DAF2EWBvN0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Final Project`s  
+powerpoint : https://www.canva.com/design/DAF2EWBvN0U/dagn-KYJeu1-Is1SZ7lA-Q/edit?utm_content=DAF2EWBvN0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## How to Install and Run the Game
 1. We need to install unity hub and unity editor
